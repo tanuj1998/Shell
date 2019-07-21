@@ -1,0 +1,21 @@
+Features that work:
+1. IO Redirection
+2. Pipes
+3. Background Processes
+4. Zombie Processes
+5. Builtin Functions
+6. cd
+7. Ctrl-C
+8. Ctrl-D
+9. Ctrl-H
+10. Ctrl-A
+11. Ctr-E
+
+Features that do not work:
+1.Subshell
+2. Wildcarding
+3. Tilde Expansion
+4. Robustness
+5. Insert in middle
+
+Extra Features Implemented: None
